@@ -1,3 +1,4 @@
+- Tested with Centos6 / Centos7
 
 - Install https://galaxy.ansible.com/geerlingguy/repo-epel
 $ ansible-galaxy install geerlingguy.repo-epel
