@@ -1,6 +1,3 @@
-
-### The Role/Playbook is provisioning resources on AWS.
-
 #####Needs to install https://galaxy.ansible.com/geerlingguy/repo-epel
 
 $ansible-galaxy install geerlingguy.repo-epel
@@ -17,5 +14,4 @@ repository: https://github.com/davidfirmino/site.git
 webapp_version: bcca0fa48ceb61a11c6ccba5b85830dc00f2fef7
 
 ### HOW TO USE
-
 
